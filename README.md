@@ -37,7 +37,7 @@ We calculated average goals per game for each season in both leagues and plotted
 - The **Premier League** shows a clear upward trend in recent years, surpassing **3 goals per match** in the latest seasons.  
 - The **Championship** remains more stable, usually between **2.4–2.7 goals per match**, reflecting a more defensive style.  
 
-![Average Goals per Match](ad45dc25-325f-47bc-a0ca-0ccfb078c734.png)  
+Average Goals per Match 
 
 ---
 
