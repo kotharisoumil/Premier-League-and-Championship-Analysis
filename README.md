@@ -45,8 +45,7 @@ Average Goals per Match
 - **Python 3.10+**  
 - **pandas**: data manipulation  
 - **numpy**: numerical computations  
-- **matplotlib & seaborn**: visualization  
-- **scikit-learn**: preprocessing & analysis support  
+- **matplotlib & seaborn**: visualization
 
 ---
 
